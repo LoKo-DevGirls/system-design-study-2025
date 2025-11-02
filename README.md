@@ -9,7 +9,9 @@ We meet **every Sunday morning** for one-hour sessions. To allow for deep-dives,
 ### Topics Covered
 
 - (22 Sep – 5 Oct): Designing a URL Shortener.
-- (6 Oct – 19 Oct): Designing a large-scale ticket booking system, such as Ticketmaster.
-- (20 Oct - 2 Nov): TBC
-- (3 Nov - 16 Nov): TBC
+- (6 Oct – 26 Oct): Designing a large-scale ticket booking system, such as Ticketmaster.
+- (27 Oct - 16 Nov): Designing a chat system, such as WhatsApp.
 - (17 Nov - 30 Nov): TBC
+
+*References*
+- Linear model in Maths and Machine Learning
